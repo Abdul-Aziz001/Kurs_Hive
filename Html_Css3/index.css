@@ -1,0 +1,13 @@
+button {
+    font-size: 28px;
+    font-family: 'Times New Roman', Helvetica, sans-serif;
+}
+
+.alert-text {
+    background-color: black;
+    color: aliceblue;
+}
+
+.alert-text2 {
+    background-color: yellow;
+}

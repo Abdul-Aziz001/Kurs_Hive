@@ -1,0 +1,19 @@
+
+
+.alert-text {
+    background-color: rgba(155, 0, 0, 0.521);
+    font-size: 24px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#oneID {
+    color: blue;
+    font-size: 36px;
+}
+
+
+#twoID {
+    background-color: rgba(11, 235, 67, 0.685);
+    font-size: 24px;
+    font-weight: bold;
+}
