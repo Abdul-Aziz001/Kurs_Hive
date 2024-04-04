@@ -1,0 +1,28 @@
+body {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.one {
+  background: rgb(150, 2, 27);
+  border: 3px solid blue;
+  /* CHANGE ME */
+  padding: 20px;
+  margin: 12px;
+}
+
+.two {
+  background: rgb(31, 94, 116);
+  border: 3px solid rgb(61, 0, 73);
+  /* CHANGE ME */
+  margin-bottom: 48px;
+}
+
+.three {
+  background: rgb(167, 78, 0);
+  border: 3px solid brown;
+  width: 200px;
+  /* CHANGE ME */
+  padding: 20px;
+  margin-left: 355px;
+}
